@@ -1,0 +1,22 @@
+﻿Сборка начата 14.05.2025 15:29:23.
+Уровень детализации журнала: Normal.     1>Проект "D:\Учеба\OAP2SEM\Lab_11\lab11\lab11.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+       InitializeBuildStatus:
+         Создание "x64\Debug\lab11.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "x64\Debug\lab11.tlog\unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Учеба\OAP2SEM\Lab_11\x64\Debug\lab11.exe" /INCREMENTAL /ILK:"x64\Debug\lab11.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Учеба\OAP2SEM\Lab_11\x64\Debug\lab11.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Учеба\OAP2SEM\Lab_11\x64\Debug\lab11.lib" /MACHINE:X64 x64\Debug\num3.obj
+         lab11.vcxproj -> D:\Учеба\OAP2SEM\Lab_11\x64\Debug\lab11.exe
+       FinalizeBuildStatus:
+         Файл "x64\Debug\lab11.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\lab11.tlog\lab11.lastbuildstate".
+     1>Сборка проекта "D:\Учеба\OAP2SEM\Lab_11\lab11\lab11.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.20
