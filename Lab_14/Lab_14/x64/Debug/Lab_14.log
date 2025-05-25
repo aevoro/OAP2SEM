@@ -1,0 +1,28 @@
+﻿Сборка начата 24.05.2025 11:56:46.
+Уровень детализации журнала: Normal.     1>Проект "D:\Учеба\OAP2SEM\Lab_14\Lab_14\Lab_14.vcxproj" в узле 2 (целевые объекты Build).
+     1>C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Lab_14.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+     1>InitializeBuildStatus:
+         Создание "x64\Debug\v11.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "x64\Debug\v11.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt v11.cpp
+         v11.cpp
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Учеба\OAP2SEM\Lab_14\x64\Debug\v11.exe" /INCREMENTAL /ILK:"x64\Debug\v11.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Учеба\OAP2SEM\Lab_14\x64\Debug\v11.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Учеба\OAP2SEM\Lab_14\x64\Debug\v11.lib" /MACHINE:X64 x64\Debug\v11.obj
+         Lab_14.vcxproj -> D:\Учеба\OAP2SEM\Lab_14\x64\Debug\v11.exe
+       FinalizeBuildStatus:
+         Файл "x64\Debug\v11.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\v11.tlog\v11.lastbuildstate".
+     1>Сборка проекта "D:\Учеба\OAP2SEM\Lab_14\Lab_14\Lab_14.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "D:\Учеба\OAP2SEM\Lab_14\Lab_14\Lab_14.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект PrepareForBuild) -> 
+         C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Lab_14.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+
+    Предупреждений: 1
+    Ошибок: 0
+
+Прошло времени 00:00:01.31
